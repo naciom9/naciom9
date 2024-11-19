@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ignace 
-- 👀 I’m interested in building solution that brings community together and empower ordinary people to do extraordinary things
-- 🌱 I’m currently learning the MERN stack
-- 💞️ I’m looking to collaborate on communnity focused React projects.
+- 👀 I’m interested in building solution that brings communities together and empowers ordinary people to do extraordinary things
+- 🌱 I’m currently learning the MERN stack and Python
+- 💞️ I’m looking to collaborate on communnity focused Python and React projects.
 - 📫 Reach me @ naciom9@gmail.com
 
 <!---
